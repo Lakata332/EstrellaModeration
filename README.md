@@ -1,0 +1,2 @@
+# EstrellaModeration
+Estrella moderasyon botu
